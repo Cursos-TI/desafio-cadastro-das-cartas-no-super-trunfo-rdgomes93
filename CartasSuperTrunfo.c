@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 
-int main() {
+int main(){
+      printf("Cartas Super Trunfo!\n");
+    
+
    #include <stdio.h>   
 #include <string.h> 
 
